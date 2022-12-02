@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpark00
-- 👀 I’m pursuing a career in web development
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 👀 I’m pursuing a career in software development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
